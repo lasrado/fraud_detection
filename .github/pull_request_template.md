@@ -7,7 +7,7 @@
 <!-- What is the motivation or context for this change -->
 
 ## Type of change
-- [ ] Inprovement
+- [ ] Improvement
 - [ ] Bug Fix
 - [ ] New Feature
 
